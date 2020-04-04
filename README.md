@@ -5,7 +5,7 @@
 
 This is a tutorial on building a portfolio website using React and tools from the GitHub Student Developer Pack. Tools used from the **GitHub Student Developer Pack** are **Namecheap** and **GitHub**.  
 
-The hosted version of this repository is live at [https://yashbajaj.engineer/](https://yashbajaj.engineer/)
+The hosted version of this repository is live at [https://yashbajaj.engineer/](https://yashbajaj.engineer/) OR [https://yash42828.github.io/Portfolio/](https://yash42828.github.io/Portfolio/)
 
 ![landing page image](./landing.png)
 
