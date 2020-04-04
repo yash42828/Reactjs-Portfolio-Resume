@@ -1,0 +1,174 @@
+{
+	"landing": {
+		"firstName": "Yash",
+		"lastName": "Bajaj",
+		"phoneNumber": "+91-8469720939",
+		"bio": "I am ready to accept the challenges, utilizing my technical skills, would like to work with a highly esteemed company which gives me a platform to use my expertise and skills for mutual growth and benefit of company and myself.",
+    "email": "bajajyash42828@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yash-bajaj-a50013123/",
+		"github": "https://github.com/yash42828"
+	},
+	"experience": [
+		{
+			"position": "Database Management System",
+			"organization": "Fossasia",
+			"aboutWork": "Built web based Data Management System that enables any company to store and manipulate its data based on the daily update of records.",
+			"fromDate": "November 2018",
+			"toDate": "Present"
+		},
+
+		{
+			"position": "Gujarat Hackathon",
+			"organization": "GitHub",
+			"aboutWork": "Built an Android app to reduce the queue in Shopping Mall.",
+			"fromDate": "February 2019",
+			"toDate": "Present"
+		},
+		{
+			"position": "Music Master",
+			"organization": "GitHub",
+			"aboutWork": "Built an Music Web app that can filter out the result by the Artist Name and you can play or pause the song by clicking on filtered song result.",
+			"fromDate": "May 2019",
+			"toDate": "Present"
+	},
+	{
+			"position": "Mobile Shopping Store",
+			"organization": "GitHub",
+			"aboutWork": "Built an Web app that provides you different products detail and you can add phone to the cart and also you can pay the total amount or cart value from the Paypal payment option.",
+			"fromDate": "February 2019",
+			"toDate": "Present"
+	},
+		{
+			"position": "Youtube Spam Detector",
+			"organization": "Hasura",
+			"aboutWork": "Build a Machine Learning model that filters the comment of Youtube as Spam or Not Spam.",
+			"fromDate": "September 2019",
+			"toDate": "August 2019"
+		},
+		{
+			"position": "Faculty Review Analysis",
+			"organization": "Hasura",
+			"aboutWork": "Build a Machine Learning model give the result of feedback as Positive or Negative.",
+			"fromDate": "September 2019",
+			"toDate": "September 2019"
+		},
+		{
+			"position": "House Price Pridiction",
+			"organization": "Hasura",
+			"aboutWork": "Build a Machine Learning model that will help predicting house price based on various factors such as Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms etc.",
+			"fromDate": "November 2019",
+			"toDate": "November 2019"
+		}
+	],
+	"education": [{
+			"university": "Uka Tarsadia University, Bardoli",
+			"degree": "Bachelor of Technology",
+			"gpa": "9.1 CGPA",
+			"fromDate": "August 2016",
+			"toDate": "May 2020"
+			
+		},
+		{
+			"university": "Samrat Vidyalaya, Surat",
+			"degree": "GHSEB",
+			"gpa": "72.90 PR",
+			"fromDate": "April 2014",
+			"toDate": "April 2016"
+			
+		},
+		{
+			"university": "Samrat Vidyalaya, Surat",
+			"degree": "GSEB",
+			"gpa": "93.20 PR",
+			"fromDate": "March 2013",
+			"toDate": "April 2014"
+			
+		}
+	],
+	"skills": [
+		{
+			"name": "C"
+		},
+		{
+			"name": "C++"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS"
+		},
+		{
+			"name": "Aura Component"
+		},
+		{
+			"name": "Salesforce"
+		},
+		{
+			"name": "Wordpress"
+		},
+		{
+			"name": "React"
+		},
+		
+		{
+			"name": "Cloud Firestore"
+		},
+		
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "Machine Learning"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Artificial Intelligence",
+		"paragraphTwo": "Internet of Things",
+		"paragraphThree": "Salesforce",
+		"paragraphFour": "Mobile Application Development",
+		"paragraphFive": "Web Development"
+		
+	},
+	"awards": [{
+			"awardDetail": "Selected in Gujarat Hackathon - 2019."
+		},
+		{
+			"awardDetail": "Selected in SARTHACK (Surat All-Round Technology Hackathon) - 2019."
+		},
+		{
+			"awardDetail": "Internship in ReactJs at IBL Infotech, Surat."
+		},
+		{
+			"awardDetail": "Cognitive Class(An IBM Initiative) Certification in Introduction to Data Science."
+		},
+		{
+			"awardDetail": "Cognitive Class(An IBM Initiative) Certification in Machine Laerning with Python."
+		},
+		{
+			"awardDetail": "“Deep Learning using Python – A Practical Approach” Workshop – July 2019."
+		},
+		{
+			"awardDetail": "C Programming Training and Test remotely conducted by IIT Bombay- November 2017."
+		},
+		{
+			"awardDetail": "Udemy Certificate of Completion on Android Application Development, Python 3 Fundamentals, Introduction to IOT."
+		},
+		{
+			"awardDetail": "NPTEL Online Certification in Programming, Data Structures and Algorithms using Python."
+		},
+		{
+			"awardDetail": "Coursera Certification in Machine Learning course authorized by Stanford University."
+		},
+		{
+			"awardDetail": "Coursera Certification in IoT & Cloud Computing Emerging Technologies course authorized by Yonsei University."
+		}
+	
+	]
+}
